@@ -6,7 +6,7 @@
 
 - 🏢 I'm a passionate Software Engineer specializing in Front-End Development.
 - 👨‍💻 Actively follow industry best practices. I thrive on challenges that allow me to broaden my skill set and embark on exciting projects.
-- 💬 Feel free to inquire about my extensive experience in React, Next.js, Redux/RTK, RTK Query, TypeScript and various other cutting-edge technologies.
+- 💬 Feel free to inquire about my experience in React, Next.js, Redux/RTK, RTK Query, TypeScript and various other web related technologies.
 - 🧪 Past experience including C#, C++, C, PHP, Python, .NET, jQuery, Angular, MS SQL Server, Oracle Database, MySQL.
 
 ### Connect with Me :
