@@ -5,8 +5,8 @@
 </h3>
 
 - 🏢 I'm a passionate Software Engineer specializing in Front-End Development.
-- 👨‍💻 Committed to continuously updating my skills and knowledge, I actively follow industry best practices. I thrive on challenges that allow me to broaden my skill set and embark on exciting projects.
-- 💬 Feel free to inquire about my extensive experience in React, Next.js, Redux/RTK, RTK Query, TypeScript, React Hook Form, Zod, Material UI, and various other cutting-edge technologies.
+- 👨‍💻 Actively follow industry best practices. I thrive on challenges that allow me to broaden my skill set and embark on exciting projects.
+- 💬 Feel free to inquire about my extensive experience in React, Next.js, Redux/RTK, RTK Query, TypeScript and various other cutting-edge technologies.
 - 🧪 Past experience including C#, C++, C, PHP, Python, .NET, jQuery, Angular, MS SQL Server, Oracle Database, MySQL.
 
 ### Connect with Me :
@@ -17,7 +17,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
